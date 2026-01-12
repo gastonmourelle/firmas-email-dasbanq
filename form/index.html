@@ -168,6 +168,23 @@
         background-color: #f9fafb;
       }
 
+      /* Helper */
+      .helper-text {
+        margin-top: 6px;
+        font-size: 11px;
+        color: #6b7280;
+      }
+
+      .helper-text a {
+        color: #343a40;
+        text-decoration: underline;
+        font-weight: 500;
+      }
+
+      .helper-text a:hover {
+        text-decoration: none;
+      }
+
       /* ---------- Copiar firma ---------- */
       .copy-button {
         padding: 10px 20px;
@@ -296,6 +313,26 @@
           </label>
         </div>
 
+        <div class="form-group" id="ctaGroup" style="display: none">
+          <label>Link de agenda (Google Calendar)</label>
+          <input
+            id="inputCTA"
+            type="url"
+            placeholder="Introduzca el link para ver su agenda de citas"
+          />
+          <!-- Helper -->
+          <p class="helper-text">
+            ¿No tiene su agenda creada?
+            <a
+              href="https://calendar.google.com/calendar/u/0/r/appointment"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Crear agenda en Google Calendar
+            </a>
+          </p>
+        </div>
+
         <button id="btnGenerar" onclick="generarFirma()">Generar firma</button>
         <span id="formTooltip" class="copy-tooltip">
           ⚠️ Completá todos los campos
@@ -324,14 +361,14 @@
               <h2
                 id="cargo"
                 style="
-                  font-size: 11px;
+                  font-size: 10px;
                   color: #343a40;
                   text-transform: uppercase;
                   letter-spacing: 2px;
                   font-weight: 400;
                 "
               >
-                Cargo
+                Cargo | Dasbanq
               </h2>
 
               <div class="contacto" style="margin-bottom: 16px">
@@ -346,7 +383,8 @@
                     id="correo"
                     style="
                       color: #545d66;
-                      text-decoration: none;
+                      text-decoration: none !important;
+                      border-bottom: none !important;
                       vertical-align: middle;
                     "
                   >
@@ -365,7 +403,8 @@
                     id="ubicacion"
                     style="
                       color: #545d66;
-                      text-decoration: none;
+                      text-decoration: none !important;
+                      border-bottom: none !important;
                       vertical-align: middle;
                     "
                   ></a>
@@ -393,58 +432,64 @@
 
               <div
                 class="social-icons"
-                style="display: inline-block; vertical-align: middle"
+                style="display: inline-block; vertical-align: middle;"
               >
                 <a
-                  style="text-decoration: none; margin-right: 5px"
+                  style="
+                    text-decoration: none !important;
+                    border-bottom: none !important;
+                    margin-right: 8px;
+                  "
                   target="_blank"
                   href="https://www.facebook.com/profile.php?id=100090120932556"
-                >
-                  <img
+                  ><img
                     width="24"
-                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/facebook.png"
-                  />
-                </a>
-                <a
-                  style="text-decoration: none; margin-right: 5px"
+                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/facebook.png" /></a
+                ><a
+                  style="
+                    text-decoration: none !important;
+                    border-bottom: none !important;
+                    margin-right: 8px;
+                  "
                   target="_blank"
                   href="https://www.instagram.com/dasbanq/"
-                >
-                  <img
+                  ><img
                     width="24"
-                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/instagram.png"
-                  />
-                </a>
-                <a
-                  style="text-decoration: none; margin-right: 5px"
+                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/instagram.png" /></a
+                ><a
+                  style="
+                    text-decoration: none !important;
+                    border-bottom: none !important;
+                    margin-right: 8px;
+                  "
                   target="_blank"
                   href="https://www.linkedin.com/company/dasbanq/"
-                >
-                  <img
+                  ><img
                     width="24"
-                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/linkedin.png"
-                  />
-                </a>
-                <a
-                  style="text-decoration: none; margin-right: 5px"
+                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/linkedin.png" /></a
+                ><a
+                  style="
+                    text-decoration: none !important;
+                    border-bottom: none !important;
+                    margin-right: 8px;
+                  "
                   target="_blank"
                   href="https://www.tiktok.com/@dasbanq"
-                >
-                  <img
+                  ><img
                     width="24"
-                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/tiktok.png"
-                  />
-                </a>
-                <a
-                  style="text-decoration: none; margin-right: 5px"
+                    src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/tiktok.png" /></a
+                ><a
+                  style="
+                    text-decoration: none !important;
+                    border-bottom: none !important;
+                    margin-right: 8px;
+                  "
                   target="_blank"
                   href="https://x.com/dasbanq"
-                >
-                  <img
+                  ><img
                     width="24"
                     src="https://gastonmourelle.github.io/firmas-email-dasbanq/assets/ico/x.png"
-                  />
-                </a>
+                /></a>
               </div>
             </div>
             <div id="bloqueCTA" style="display: none; margin-top: 12px">
@@ -458,7 +503,8 @@
                   color: #ffffff;
                   background-color: #343a40;
                   border-radius: 6px;
-                  text-decoration: none;
+                  text-decoration: none !important;
+                  border-bottom: none !important;
                 "
               >
                 Reservar cita
@@ -503,7 +549,7 @@
         }
 
         document.getElementById("nombre").textContent = nombre;
-        document.getElementById("cargo").textContent = cargo;
+        document.getElementById("cargo").textContent = cargo + " | Dasbanq";
 
         const correoEl = document.getElementById("correo");
         correoEl.textContent = correo;
@@ -525,11 +571,18 @@
 
         actualizarUbicacion();
 
-        /* ---------- CTA RESERVAR CITA ---------- */
         const showCTA = document.getElementById("chkCTA").checked;
-        document.getElementById("bloqueCTA").style.display = showCTA
-          ? "block"
-          : "none";
+        const ctaInput = document.getElementById("inputCTA");
+        const bloqueCTA = document.getElementById("bloqueCTA");
+        const ctaLink = bloqueCTA.querySelector("a");
+
+        if (showCTA && ctaInput.value.trim() !== "") {
+          ctaLink.href = ctaInput.value.trim();
+          ctaLink.target = "_blank";
+          bloqueCTA.style.display = "block";
+        } else {
+          bloqueCTA.style.display = "none";
+        }
       }
 
       function toggleUbicacion() {
@@ -544,6 +597,13 @@
 
       chkUbicacion.addEventListener("change", () => {
         ubicacionGroup.style.display = chkUbicacion.checked ? "block" : "none";
+      });
+
+      const chkCTA = document.getElementById("chkCTA");
+      const ctaGroup = document.getElementById("ctaGroup");
+
+      chkCTA.addEventListener("change", () => {
+        ctaGroup.style.display = chkCTA.checked ? "block" : "none";
       });
 
       function copiarFirma() {
