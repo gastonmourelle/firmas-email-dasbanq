@@ -25,7 +25,7 @@
 
 ### Agregar botón para reservar cita
 
-### Si no sabes como crear tu agenda de disponibilidad de Google Calendar:
+***Si no sabes como crear tu agenda de disponibilidad de Google Calendar:***
 
 **a.** Accede al link para crear la agenda: https://calendar.google.com/calendar/u/0/r/appointment
 
