@@ -6,24 +6,24 @@
 
 ## 2️⃣ Completa tus datos
 
-- Nombre completo
+### Nombre completo
 
-- Tu cargo en Dasbanq
+### Tu cargo en Dasbanq
 
-- Email (@dasbanq.com)
+### Email (@dasbanq.com)
 
 ![alt text](assets/readme/image.png)
 
 
 ## 3️⃣ (Opcional) Agrega información extra
 
-- Agregar ubicación:
+### Agregar ubicación:
 
 ![alt text](assets/readme/image-5.png)
 
 *No es necesario poner ningún link. **La firma linkea a Maps** automáticamente a la dirección indicada.*
 
-- Agregar botón para reservar cita
+### Agregar botón para reservar cita
 
 ### Si no sabes como crear tu agenda de disponibilidad de Google Calendar:
 
@@ -52,19 +52,19 @@
 
 ## 4️⃣ Genera y copia tu firma
 
-- Click en **Generar firma**
+### Click en **Generar firma**
 
->*Revisa que en la vista previa se muestre todo correctamente (textos, links):*
+*Revisa que en la vista previa se muestre todo correctamente (textos, links):*
 
 
 
-- Click en **Copiar firma**
+### Click en **Copiar firma**
 
 
 
 ## 5️⃣ Pega la firma en tu email
 
-- Gmail
+### Gmail
 
 **a.** Ve a **Configuración → Ver toda la configuración**
 
@@ -82,7 +82,9 @@
 
 **f.** Baja hasta **Guardar cambios**
 
-- Outlook: https://support.microsoft.com/es-es/office/crear-agregar-o-cambiar-una-firma-de-correo-electr%C3%B3nico-en-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2
+### Outlook: 
+
+https://support.microsoft.com/es-es/office/crear-agregar-o-cambiar-una-firma-de-correo-electr%C3%B3nico-en-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2
 
 ## ✅ Recomendaciones
 
