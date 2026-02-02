@@ -2,7 +2,7 @@
 
 ## 1️⃣ Abre el generador de firmas
 
-### 👉 https://gastonmourelle.github.io/firmas-email-dasbanq/
+**👉 https://gastonmourelle.github.io/firmas-email-dasbanq/**
 
 ## 2️⃣ Completa tus datos
 
@@ -21,7 +21,7 @@
 
 ![alt text](assets/readme/image-5.png)
 
->No es necesario poner ningún link. **La firma linkea a Maps** automáticamente a la dirección indicada.
+*No es necesario poner ningún link. **La firma linkea a Maps** automáticamente a la dirección indicada.*
 
 - Agregar botón para reservar cita
 
@@ -66,28 +66,26 @@
 
 - Gmail
 
-**a.** Ve a Configuración → Ver toda la configuración
+**a.** Ve a **Configuración → Ver toda la configuración**
 
 ![alt text](assets/readme/image-6.png)
 
-**b.** Baja hasta "Firma" e introduce tu firma en el campo blanco (unicamente clic derecho → pegar).
+**b.** Baja hasta **"Firma"** e introduce tu firma en el campo blanco *(unicamente clic derecho → pegar)*.
 
-**c.** En los "Valores predeterminados de firma", tiene que estar seleccionada la nueva firma para correos nuevos y para respuestas/reenvíos. Nos aseguramos de esto comprobando que el nombre de la firma coincide con el que seleccionamos en ambos campos.
+**c.** En los **"Valores predeterminados de firma"**, tiene que estar seleccionada la nueva firma para correos nuevos y para respuestas/reenvíos. *Nos aseguramos de esto comprobando que el nombre de la firma coincide con el que seleccionamos en ambos campos.*
 
-**d.** Chequeamos la casilla de "Insertar la firma antes del texto citado en las respuestas y quitar la línea "--" que separa los dos textos."
+**d.** Chequeamos la casilla de **"Insertar la firma antes del texto citado en las respuestas y quitar la línea "--" que separa los dos textos."**
 
 **e.** Debería quedar así:
 
 ![alt text](assets/readme/image-7.png)
 
-**f.** Guardamos cambios
+**f.** Baja hasta **Guardar cambios**
 
 - Outlook: https://support.microsoft.com/es-es/office/crear-agregar-o-cambiar-una-firma-de-correo-electr%C3%B3nico-en-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2
 
 ## ✅ Recomendaciones
 
->*No modifiques la firma manualmente.*
-
->*Si necesitas cambiar algo, vuelve al generador y creala nuevamente.*
-
->*Si tienes más dudas contáctame: gmourelle@dasbanq.com*
+>No modifiques la firma manualmente.
+>Si necesitas cambiar algo, vuelve al generador y creala nuevamente.
+>Si tienes más dudas contáctame: gmourelle@dasbanq.com
