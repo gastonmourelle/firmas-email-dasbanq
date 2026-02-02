@@ -1,10 +1,10 @@
-#🖊️ Cómo configurar tu firma de email – Dasbanq
+# 🖊️ Cómo configurar tu firma de email – Dasbanq
 
-##1️⃣ Abre el generador de firmas
+## 1️⃣ Abre el generador de firmas
 
-###👉 https://gastonmourelle.github.io/firmas-email-dasbanq/
+### 👉 https://gastonmourelle.github.io/firmas-email-dasbanq/
 
-##2️⃣ Completa tus datos
+## 2️⃣ Completa tus datos
 
 - Nombre completo
 
@@ -15,7 +15,7 @@
 ![alt text](assets/readme/image.png)
 
 
-##3️⃣ (Opcional) Agrega información extra
+## 3️⃣ (Opcional) Agrega información extra
 
 - Agregar ubicación:
 
@@ -25,7 +25,7 @@
 
 - Agregar botón para reservar cita
 
-###Si no sabes como crear tu agenda de disponibilidad de Google Calendar:
+### Si no sabes como crear tu agenda de disponibilidad de Google Calendar:
 
 **a.** Accede al link para crear la agenda: https://calendar.google.com/calendar/u/0/r/appointment
 
@@ -50,7 +50,7 @@
 ![alt text](assets/readme/image-4.png)
 
 
-##4️⃣ Genera y copia tu firma
+## 4️⃣ Genera y copia tu firma
 
 - Click en **Generar firma**
 
@@ -62,7 +62,7 @@
 
 
 
-##5️⃣ Pega la firma en tu email
+## 5️⃣ Pega la firma en tu email
 
 - Gmail
 
@@ -84,7 +84,7 @@
 
 - Outlook: https://support.microsoft.com/es-es/office/crear-agregar-o-cambiar-una-firma-de-correo-electr%C3%B3nico-en-outlook-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2
 
-##✅ Recomendaciones
+## ✅ Recomendaciones
 
 >*No modifiques la firma manualmente.*
 
