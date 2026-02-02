@@ -90,4 +90,4 @@
 
 >Si necesitas cambiar algo, vuelve al generador y creala nuevamente.
 
->Si tienes más dudas contáctame: gmourelle@dasbanq.com
+>Si tienes más dudas contáctame: **gmourelle@dasbanq.com**
