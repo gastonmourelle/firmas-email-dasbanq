@@ -21,7 +21,7 @@
 
 ![alt text](assets/readme/image-5.png)
 
-*No es necesario poner ningún link. **La firma linkea a Maps** automáticamente a la dirección indicada.*
+*No es necesario poner ningún link. **La firma linkea a Maps automáticamente a la dirección indicada.***
 
 - Agregar botón para reservar cita
 
