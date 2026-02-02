@@ -20,6 +20,7 @@
 - Agregar ubicación:
 
 ![alt text](assets/readme/image-5.png)
+
 No es necesario poner ningún link. La firma linkea a Maps automáticamente a la dirección indicada.
 
 - Agregar botón para reservar cita
@@ -85,6 +86,8 @@ f. Guardamos cambios
 
 ✅ Recomendaciones
 
-No modifiques la firma manualmente
-Si necesitas cambiar algo, vuelve al generador y creala nuevamente
+No modifiques la firma manualmente.
+
+Si necesitas cambiar algo, vuelve al generador y creala nuevamente.
+
 Si tienes más dudas contáctame: gmourelle@dasbanq.com
