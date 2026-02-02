@@ -6,24 +6,24 @@
 
 ## 2️⃣ Completa tus datos
 
-### Nombre completo
+- Nombre completo
 
-### Tu cargo en Dasbanq
+- Tu cargo en Dasbanq
 
-### Email (@dasbanq.com)
+- Email (@dasbanq.com)
 
 ![alt text](assets/readme/image.png)
 
 
 ## 3️⃣ (Opcional) Agrega información extra
 
-### Agregar ubicación:
+- Agregar ubicación:
 
 ![alt text](assets/readme/image-5.png)
 
 *No es necesario poner ningún link. **La firma linkea a Maps** automáticamente a la dirección indicada.*
 
-### Agregar botón para reservar cita
+- Agregar botón para reservar cita
 
 ***Si no sabes como crear tu agenda de disponibilidad de Google Calendar:***
 
@@ -52,13 +52,13 @@
 
 ## 4️⃣ Genera y copia tu firma
 
-### Click en **Generar firma**
+- Click en **Generar firma**
 
 *Revisa que en la vista previa se muestre todo correctamente (textos, links):*
 
 
 
-### Click en **Copiar firma**
+- Click en **Copiar firma**
 
 
 
